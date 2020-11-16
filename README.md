@@ -29,7 +29,7 @@ Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool li
 
 #### Data Analysis
 
-Once you have a complete database, do the following:
+Complete the following:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
